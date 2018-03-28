@@ -1,2 +1,5 @@
 # VehicleManagementSystem
-To manage vehicular activities
+To manage vehicular activities such as Vehicle registration, License Renewal, Fine Payment, Feedback and Filing Complaints and Charges
+
+## Working Demo
+[Link](https://github.com/vivekVells/VehicleManagementSystem/tree/master/demo)
