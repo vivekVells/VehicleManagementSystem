@@ -3,3 +3,6 @@ To manage vehicular activities such as Vehicle registration, License Renewal, Fi
 
 ## Working Demo
 [Link](https://github.com/vivekVells/VehicleManagementSystem/tree/master/demo)
+
+## Languages Used
+- Java, JSP, MS-ACCESS
